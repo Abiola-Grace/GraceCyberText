@@ -28,9 +28,9 @@
 [<img align="left" alt="AbiolaGracer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="theabiolagrace | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/theabiolagrace
-[instagram]: https://www.instagram.com/theabiolagrace/
-[linkedin]: https://linkedin.com/in/abiolagrace
+[twitter]: https://twitter.com/abiolagracee
+[instagram]: https://www.instagram.com/theabiolagracee/
+[linkedin]: https://linkedin.com/in/Abiola Grace
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
