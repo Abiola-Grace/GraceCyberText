@@ -1,4 +1,6 @@
-<img src="_DSC0772 copy.jpg" width="150" style="border-radius: 50%;" align="left">
+<div style="background-color: #F4C2C2;">
+
+<img src="_DSC0772 copy.jpg" width="200" style="border-radius: 100%; object-fit: cover;" align="right">
 
 <h1>Hi, I am Abiola Grace! <br/><a href="https://github.com/abiola-grace">Python Programmer</a>, <a href="https://www.linkedin.com/in/abiola-grace/">Data Scientist</a></h1>
 
@@ -33,6 +35,8 @@
 [twitter]: https://twitter.com/abiolagracee
 [instagram]: https://www.instagram.com/theabiolagracee/
 [linkedin]: https://linkedin.com/in/abiola-grace
+
+</div>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
