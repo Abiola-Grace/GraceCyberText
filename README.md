@@ -1,4 +1,4 @@
-<h1>Hi, I am Abiola Grace! <br/><a href="https://github.com/abiola-grace">Python Programmer</a>, <a href="https://www.linkedin.com/in/abiolagrace/">Data Scientist</a></h1>
+<h1>Hi, I am Abiola Grace! <br/><a href="https://github.com/abiola-grace">Python Programmer</a>, <a href="https://www.linkedin.com/in/abiola-grace/">Data Scientist</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -30,7 +30,7 @@
 
 [twitter]: https://twitter.com/abiolagracee
 [instagram]: https://www.instagram.com/theabiolagracee/
-[linkedin]: https://linkedin.com/in/Abiola Grace
+[linkedin]: https://linkedin.com/in/abiola-grace
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
