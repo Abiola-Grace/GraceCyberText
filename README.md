@@ -1,3 +1,5 @@
+<img src="profile.jpg" width="150" style="border-radius: 50%;" align="left">
+
 <h1>Hi, I am Abiola Grace! <br/><a href="https://github.com/abiola-grace">Python Programmer</a>, <a href="https://www.linkedin.com/in/abiola-grace/">Data Scientist</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
